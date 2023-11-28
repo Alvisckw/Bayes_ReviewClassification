@@ -14,4 +14,4 @@ It is the **Final Course Project** of SMM694 Applied NLP module for 2022/23 MSc 
 ## Code Explanation
 - Pre-processed the text data with NLP pipeline
 - Trained and tested multiple classification models with [train.csv](./train.csv)
-- Classified reviews in [true_labels.csv](./true_labels.csv)
+- (Classified reviews in [true_labels.csv](./true_labels.csv))
